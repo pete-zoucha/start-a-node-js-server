@@ -1,18 +1,15 @@
+FreeCodeCamp node.js lessons.
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
-
-
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
-
-Happy coding!
-The Cloud9 IDE team
+1. Hello World
+2. Baby Steps
+3. My First I/O!
+4. My First Async I/O!
+5. Filtered LS
+6. Make It Modular
+7. HTTP Client
+8. HTTP Collect
+9. Juggling Async
+10. Time Server
+11. HTTP File Server
+12. HTTP Uppercaserer
+13. HTTP JSON API Server
